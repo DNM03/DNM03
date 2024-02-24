@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖I'm currently studying at the University of Information Technology, Ho Chi Minh national University.<br>✍️I'm majoring in software engineering.<br>📱 I'm currently learning to develop mobile apps.
+📖I'm currently studying at the University of Information Technology, Ho Chi Minh National University.<br>✍️I'm majoring in software engineering.<br>📱 I'm currently learning to develop mobile apps.
 
 
 ## 🌐 Socials:
