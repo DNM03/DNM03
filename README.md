@@ -25,3 +25,10 @@
 [![](https://visitcount.itsvg.in/api?id=DNM03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DNM03"
+  width="600"
+  height="300"
+/>
