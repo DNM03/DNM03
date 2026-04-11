@@ -60,9 +60,12 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### 🐍 Contributions
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div>
+
+  ![snake gif](https://github.com/DNM03/DNM03/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
