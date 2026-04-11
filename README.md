@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 B.S. in Software Engineering — University of Information Technology, Ho Chi Minh National University  
+🎓 B.S. in Software Engineering — University of Information Technology, Vietnam National University Ho Chi Minh City
 💻 Software Engineer  
 🚀 Building web and mobile applications  
 🛠️ Working with modern technologies like React, Next.js, and Flutter  
