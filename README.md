@@ -60,7 +60,7 @@
 
 ---
 
-### 🐍 Contributions
+## 🐍 Contributions
 
 <div>
 
@@ -68,6 +68,9 @@
 </div>
 
 ---
+
+## 🎮 Contribution Playground  
+*Interactive visualization of my GitHub activity*
 
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/DNM03" width="600" height="300" />
